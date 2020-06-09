@@ -1,0 +1,50 @@
+.titleText
+{
+  color:  #1505ee;
+  font-size: 200%;
+  text-align: center;
+}
+.Background
+{
+  background:linear-gradient(to top left,  #77eff5,white);
+  background-attachment: fixed;
+  color: black;
+}
+.hyperText
+{
+  color: black;
+  text-decoration: none;
+  
+}
+.images
+{
+  width: 600px;
+  height: 500px;
+  margin: auto 30%;
+}
+h2
+{
+  font-size: 200%;
+}
+.block
+{
+  margin: 10% 45%;
+}
+
+input:invalid:not(:placeholder-shown)
+{
+  color:red;
+}
+input:valid:not(:placeholder-shown) 
+{
+  border-color: green;
+}
+input:required
+{
+  border-color: red;
+}
+.buttonsubmit
+ {
+  color: black;
+  text-decoration: none;
+}
